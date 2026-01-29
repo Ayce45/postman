@@ -1,20 +1,26 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [Postman](https://postman.com)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Postman](https://postman.com).
 
-![Screenshot](./screenshot.png)
+<img width="852" height="839" alt="image" src="https://github.com/user-attachments/assets/1c8fb18a-306c-4e04-8988-a26845bc82fa" />
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/postman](https://draculatheme.com/postman) or below :
+
+1. Open Postman → File → Settings
+2. Click to the `Themes` section.
+3. Choose `Theme selection` between `Sync with system` or `Manual`
+4. For `Sync with system` select Dracula in dropdown
+4. For `Manual` click on Dracula
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/postman/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) | [![Lucas de França](https://github.com/luxonauta.png?size=100)](https://github.com/luxonauta) |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               | [Lucas de França](https://github.com/luxonauta)                                               |
+| [![Ayce45](https://github.com/ayce45.png?size=100)](https://github.com/ayce45) |
+| ------------------------------------------------------------------------------ |
+| [Ayce45](https://github.com/Ayce45)                                            |
 
 ## Community
 
